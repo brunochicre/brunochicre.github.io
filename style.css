@@ -1,0 +1,22 @@
+.gridPart{
+    background-color: white;
+    border: none;
+    width: 2.5vw;
+    height: 2.5vw;
+}
+
+
+
+#grid{
+    border: dotted black;
+    margin: 0 auto;
+    display: flex;
+}
+
+#choiceButton{
+    content: "CHOOSE COLOR" !important;
+}
+
+html{
+    background-color: lightgrey;
+}
